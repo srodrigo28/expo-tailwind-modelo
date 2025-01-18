@@ -6,7 +6,9 @@
 ### Especial Instalando Expo Native Wild
 
 #### 0. Link
+```
 https://www.nativewind.dev/getting-started/expo-router
+```
 
 #### 1. Crie um projeto Install NativeWind
 * Criando projeto
