@@ -8,8 +8,16 @@
 #### 0. Link
 https://www.nativewind.dev/getting-started/expo-router
 
-#### 1. Install NativeWind
+#### 1. Crie um projeto Install NativeWind
+* Criando projeto
+```
+npx create-expo-app@latest --template
+```
+
+* Instalando depedência Tailwind Native
+```
 npx expo install nativewind tailwindcss react-native-reanimated react-native-safe-area-context
+```
 
 #### 3. Setup Tailwind CSS
 ```
